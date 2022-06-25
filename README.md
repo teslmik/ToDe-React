@@ -1,4 +1,4 @@
-# [Open ToDo React List]([https://github.com/facebook/create-react-app](https://react-todo-f3aa9.web.app/))
+[Open ToDo React List]([https://github.com/facebook/create-react-app](https://react-todo-f3aa9.web.app/))
 
 # Getting Started with Create React App
 
